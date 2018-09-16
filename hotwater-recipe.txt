@@ -1,0 +1,7 @@
+ingredients:
+- water
+- kettle
+
+steps:
+1) put the water into the kettle
+2) light up the fire until water boils
